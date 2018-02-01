@@ -1,0 +1,23 @@
+{
+  "name": "lab_expressjs-api",
+  "version": "1.0.0",
+  "description": "express api lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skymx99/Lab_ExpressJS-API.git"
+  },
+  "author": "Alex Lewis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skymx99/Lab_ExpressJS-API/issues"
+  },
+  "homepage": "https://github.com/Skymx99/Lab_ExpressJS-API#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2"
+  }
+}
